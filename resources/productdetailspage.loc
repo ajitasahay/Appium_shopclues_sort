@@ -1,0 +1,3 @@
+lbl.productname.productpage = {\"locator\":\"xpath=//android.widget.TextView[@resource-id='com.shopclues:id/tv_product_name']\",\"desc\":\"product name\"}
+lbl.productprice.productpage = {\"locator\":\"xpath=//android.widget.TextView[@resource-id='com.shopclues:id/tv_third_price']\",\"desc\":\"product price\"}
+lbl.productdetails.productpage = {\"locator\":\"xpath=//android.widget.LinearLayout[@resource-id='com.shopclues:id/ll_product_info']\",\"desc\":\"product details\"}

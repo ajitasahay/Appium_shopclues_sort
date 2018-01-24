@@ -1,0 +1,1 @@
+btn.addtocart.productpage = {\"locator\":\"xpath=//android.widget.Button[@text='ADD TO CART']\",\"desc\":\"add to cart button\"}

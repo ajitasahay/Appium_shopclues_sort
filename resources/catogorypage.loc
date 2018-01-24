@@ -1,0 +1,5 @@
+txtbx.searchproduct.homepage = {\"locator\":\"xpath=//android.widget.TextView[@text='What are you looking for?']\",\"desc\":\"search product\"}
+lbl.sortoption.productpage = {\"locator\":\"xpath=//android.widget.TextView[@text='%s']\",\"desc\":\"sorting option\"}
+btn.sort.productpage = {\"locator\":\"id=com.shopclues:id/ll_sort\",\"desc\":\"sorting product\"}
+txtbox.productname.productpage = {\"locator\":\"id=com.shopclues:id/rl_toolbar\",\"desc\":\"product name\"}
+suggestion.productname.productpage = {\"locator\":\"xpath=//android.widget.TextView[@resource-id='com.shopclues:id/text1']\",\"desc\":\"suggestion\"}

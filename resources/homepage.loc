@@ -1,0 +1,5 @@
+btn.cancelaccess.homepage = {\"locator\":\"id=android:id/button2\",\"desc\":\"cancel location access\"}
+lbl.menu.homepage = {\"locator\":\"accessibility id=Navigate up\",\"desc\":\"menu option\"}
+lbl.submenu.homepage = {\"locator\":\"xpath=//android.widget.TextView[@text='%s']\",\"desc\":\"submenu option\"}
+lbl.icon.homepage = {\"locator\":\"id=com.shopclues:id/iv_shopclues_icon\",\"desc\":\"shopclues\"}
+txtbx.searchproduct.homepage = {\"locator\":\"xpath=//android.widget.TextView[@text='What are you looking for?']\",\"desc\":\"search product\"}

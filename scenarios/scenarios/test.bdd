@@ -1,0 +1,16 @@
+
+
+SCENARIO: Orderflow
+META-DATA: {"description":"end to end","groups":["P1","P2","SMOKE"]}
+	
+	Given user is on shopclues application
+	Then user verify the homepage
+	When user inputs 'oats' in search box
+	Then user should see the result of oats
+	When user select 'Price Low to High' sorting
+	Then user should see result based on sorting
+	When user selects '0' product from result
+	When user add the product to cart
+	Then user verify product should be added to cart
+		
+END

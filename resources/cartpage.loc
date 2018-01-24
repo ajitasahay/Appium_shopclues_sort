@@ -1,0 +1,3 @@
+btn.buynow.productpage = {\"locator\":\"id=com.shopclues:id/btn_buynow\",\"desc\":\"buy now button\"}
+btn.cart.productpage = {\"locator\":\"id=com.shopclues:id/cart\",\"desc\":\"cart button\"}
+lbl.productname.cartpage = {\"locator\":\"xpath=//android.widget.TextView[@resource-id='com.shopclues:id/tv_cart_item_name']\",\"desc\":\"product name in cart page\"}

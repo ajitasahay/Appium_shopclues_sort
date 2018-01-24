@@ -1,0 +1,17 @@
+
+
+SCENARIO: shopcluessteps
+META-DATA: {"description":"end to end flow","groups":["P1","P2","SMOKE"],"key":"Product"}
+	
+	Given user is on shopclues application
+	Then user verify the homepage
+	When user inputs '${serachname}' in search box
+	Then user should see the result of oats
+	When user select '${filter}' sorting
+	Then user should see result based on sorting
+	When user selects '0' product from result
+	When user add the product to cart
+	Then user verify product should be added to cart
+	
+END
+

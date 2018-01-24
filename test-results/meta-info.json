@@ -1,0 +1,74 @@
+{
+  "reports": [
+    {
+      "name": "Suite",
+      "dir": "test-results/24_Jan_2018_07_17_AM/json",
+      "startTime": 1516778296623
+    },
+    {
+      "name": "Suite",
+      "dir": "test-results/24_Jan_2018_06_58_AM/json",
+      "startTime": 1516777179331
+    },
+    {
+      "name": "Default suite",
+      "dir": "test-results/24_Jan_2018_05_48_AM/json",
+      "startTime": 1516773092619
+    },
+    {
+      "name": "Default suite",
+      "dir": "test-results/24_Jan_2018_05_48_AM/json",
+      "startTime": 1516772951111
+    },
+    {
+      "name": "Default suite",
+      "dir": "test-results/23_Jan_2018_11_37_AM/json",
+      "startTime": 1516707473625
+    },
+    {
+      "name": "Default suite",
+      "dir": "test-results/16_Jan_2018_07_01_AM/json",
+      "startTime": 1516086880137
+    },
+    {
+      "name": "Default suite",
+      "dir": "test-results/16_Jan_2018_07_01_AM/json",
+      "startTime": 1516086748135
+    },
+    {
+      "name": "Default suite",
+      "dir": "test-results/16_Jan_2018_07_01_AM/json",
+      "startTime": 1516086636579
+    },
+    {
+      "name": "Default suite",
+      "dir": "test-results/16_Jan_2018_07_01_AM/json",
+      "startTime": 1516086369936
+    },
+    {
+      "name": "Default suite",
+      "dir": "test-results/16_Jan_2018_07_01_AM/json",
+      "startTime": 1516086131548
+    },
+    {
+      "name": "Default suite",
+      "dir": "test-results/12_Jan_2018_08_17_AM/json",
+      "startTime": 1515760213871
+    },
+    {
+      "name": "Default suite",
+      "dir": "test-results/12_Jan_2018_08_17_AM/json",
+      "startTime": 1515758432000
+    },
+    {
+      "name": "Shopclues.scenarios.test.bdd",
+      "dir": "test-results/12_Jan_2018_05_25_PM/json",
+      "startTime": 1515758115810
+    },
+    {
+      "name": "Shopclues.scenarios.datatest.bdd",
+      "dir": "test-results/12_Jan_2018_05_21_PM/json",
+      "startTime": 1515757875483
+    }
+  ]
+}

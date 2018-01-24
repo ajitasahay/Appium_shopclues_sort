@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[<div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>
+Expected: a string containing "What are you looking for?"
+     Actual: was "What are you looking for?" <a href="../img/stepsFlow_qlgtzighjec310024.png" target="_blank">[View Screenshot]</a> </div><div  class="pass"><span class="pass-label">P </span>
+Expected: a string containing "oats in Breakfast & Diet Foods"
+     Actual: was "oats in Breakfast & Diet Foods" <a href="../img/stepsFlow_19evbcaz9c1by10025.png" target="_blank">[View Screenshot]</a> </div></div>]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="53390" started-at="2018-01-24T05:51:32Z" finished-at="2018-01-24T05:52:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="53390" started-at="2018-01-24T05:51:32Z" finished-at="2018-01-24T05:52:26Z">
+      <class name="com.appiumshopclues.steps.ShopCluesTest">
+        <test-method status="PASS" signature="stepsFlow()[pri:0, instance:com.appiumshopclues.steps.ShopCluesTest@7d898981]" name="stepsFlow" duration-ms="53208" started-at="2018-01-24T11:21:32Z" finished-at="2018-01-24T11:22:26Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>
+Expected: a string containing "What are you looking for?"
+     Actual: was "What are you looking for?" <a href="../img/stepsFlow_qlgtzighjec310024.png" target="_blank">[View Screenshot]</a> </div><div  class="pass"><span class="pass-label">P </span>
+Expected: a string containing "oats in Breakfast & Diet Foods"
+     Actual: was "oats in Breakfast & Diet Foods" <a href="../img/stepsFlow_19evbcaz9c1by10025.png" target="_blank">[View Screenshot]</a> </div></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- stepsFlow -->
+      </class> <!-- com.appiumshopclues.steps.ShopCluesTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
